@@ -2,3 +2,6 @@ Backend Technologies
 
 Core JAVA
 Java 8
+
+JSP Servlet
+J2EE
